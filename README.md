@@ -7,7 +7,7 @@ Bu loyiha sayyohlik agentligi uchun oddiy website va Telegram bot integratsiyasi
 ## 🚀 Funksiyalar
 
 - 🌍 Turistik xizmatlar sayti
-- 🛂 Vizalar bo‘limi
+- 🛂 Aviabiletlar bo‘limi
 - 🏨 Mehmonxonalar
 - 📩 Buyurtma qoldirish formasi
 - 📲 Telegram bot orqali mijoz xabarlari
